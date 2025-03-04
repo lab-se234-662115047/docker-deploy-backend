@@ -63,3 +63,4 @@ jobs:
             docker compose pull  # Pull the latest image
             docker compose up -d  # Start the containers in detached mode
             rm -rf /home/ubuntu/backend  # Clean up the local backend directory
+            # this is just a comment
